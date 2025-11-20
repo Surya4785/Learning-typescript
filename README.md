@@ -7,8 +7,6 @@ A repository for exploring and learning the fundamentals of [TypeScript](https:/
 This repo is a learning sandbox for me (student at ABES Engineering College) to play around with TypeScript concepts, build small examples, and gradually build up my understanding of typed JavaScript.  
 I’m working through topics such as basic types, type inference, configuration, and more advanced features.
 
-## 📂 Project structure
-
 
 ## ✅ What you’ll find
 
