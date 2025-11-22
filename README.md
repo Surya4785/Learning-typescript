@@ -8,7 +8,7 @@ This repo is a learning sandbox for me (student at ABES Engineering College) to 
 I’m working through topics such as basic types, type inference, configuration, and more advanced features.
 
 
-## ✅ What you’ll find
+<!-- ## ✅ What you’ll find -->
 
 - Basic types and their usage in TypeScript.  
 - How to set up a `tsconfig.json` and build a TS project.  
