@@ -10,11 +10,11 @@ I’m working through topics such as basic types, type inference, configuration,
 
 ## ✅ What you’ll find
 
-<!-- - Basic types and their usage in TypeScript.  
+- Basic types and their usage in TypeScript.  
 - How to set up a `tsconfig.json` and build a TS project.  
 - Examples of type inference, union types, interfaces, generics (added over time).  
 - Small experiments and code snippets to solidify the concepts.  
-- Comments and notes to help me remember what I learned. -->
+- Comments and notes to help me remember what I learned.
 
 ## 🚀 Getting started
 
